@@ -1,7 +1,6 @@
-### Hey there, I'm Manish Kumar 👋, 
+### Hey there, I'm Manish Kumar 👋 
 ![](https://komarev.com/ghpvc/?username=mk46&color=green)
 
-- 🔭 I’m currently working at [NEC](https://in.nec.com/) as a Software Engineer
  
 
 ### GitHub Stats
